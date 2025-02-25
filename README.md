@@ -45,11 +45,11 @@ I believe that in times of crisis, technology is a powerful tool for overcoming 
 
 ## 📈 GitHub Statistics  
 <div align="center">
-  <a href="https://github.com/dhiyego/" target="_blank">
-    <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiyego&hide=html&layout=compact&theme=dark" />
+  <a href="https://github.com/dhiyego" target="_blank">
+    <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiyego&hide=html&layout=compact&theme=dark" alt="Top Langs"/>
   </a>
-  <a href="https://github.com/dhiyego/" target="_blank">
-    <img width="350px" height="140em" src="https://github-readme-stats-one-bice.vercel.app/api?username=dhiyego&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true"/>
+  <a href="https://github.com/dhiyego" target="_blank">
+    <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=dhiyego&theme=dark&include_all_commits=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
 
