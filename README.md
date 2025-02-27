@@ -3,10 +3,6 @@
 ## About Me  
 Hello, my name is Diego, and I have always been passionate about technology and related fields. I love video games, anime, great movies, and spending time with friends. I am a Full-Stack Developer with a focus on Back-End, meticulous in building and executing any type of product! I believe that regardless of the project, everything should be done with excellence.  
 
-I started my journey in technology in the Technical Support field, working with computer maintenance, networks, and systems. After some time, I refined my skills through courses, lectures, and books, eventually stepping into the wonderful world of programming. I would say I found my true calling in this field—so give me coffee and a code editor, and I can spend hours creating and developing new solutions.  
-
-I believe that in times of crisis, technology is a powerful tool for overcoming challenges. For this reason, I dedicate myself to staying up to date, providing solutions that help companies not only survive but thrive. I am always open to new challenges and eager to make a difference in people's lives. What I don’t know, I learn. Want to know more? Let’s talk!  
-
 ---
 
 ## 🚀 Technologies & Tools  
