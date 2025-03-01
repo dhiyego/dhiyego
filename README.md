@@ -1,7 +1,7 @@
 ## 👋 Hello World! I'm Diego
 
 ## About Me  
-Hello, my name is Diego, and I have always been passionate about technology and related fields. I love video games, anime, great movies, and spending time with friends. I am a Full-Stack Developer with a focus on Back-End, meticulous in building and executing any type of product! I believe that regardless of the project, everything should be done with excellence.  
+Hi guys, my name is Diego, and I have always been passionate about technology and related fields. I love video games, anime, great movies, and spending time with friends. I am a Full-Stack Developer with a focus on Back-End, meticulous in building and executing any type of product! I believe that regardless of the project, everything should be done with excellence.  
 
 ---
 
